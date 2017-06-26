@@ -1,5 +1,5 @@
-import webpackDevServer from './11_src/src/webpack-dev-server'
-import server from './11_src/src/server'
+import webpackDevServer from './src/src/webpack-dev-server'
+import server from './src/src/server'
 
 const port = 5050
 
